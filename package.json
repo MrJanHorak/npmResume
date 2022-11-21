@@ -1,6 +1,6 @@
 {
   "bin": {
-    "your-command-here": "./index.js"
+    "janhorak": "./index.js"
   },
   "name": "janhorak-resume",
   "version": "1.0.0",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "MrJanHorak"
+    "url": "git+https://github.com/MrJanHorak/npmResume.git"
   },
   "author": "Jan Horak",
   "license": "ISC"

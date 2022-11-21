@@ -2,7 +2,7 @@
   "name": "Jan Horak",
   "website": "https://janhorak.dev/",
   "linkedin": "https://www.linkedin.com/in/jan-horak/",
-  "github": "MrJanHorak",
+  "github": "git+https://github.com/MrJanHorak",
   "email": "jan-horak@gmx.de",
   "resume": "https://janhorak.dev/Horak%20Resume.pdf",
   "proficientTechnologies": [
